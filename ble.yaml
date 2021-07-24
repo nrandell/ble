@@ -1,0 +1,109 @@
+esphome:
+  name: blesensor
+  platform: ESP32
+  board: m5stack-core-esp32
+
+wifi:
+  ssid: "oakridge"
+  password: "donkeykong"
+  domain: .home
+  fast_connect: true
+  # use_address: 192.168.100.178
+
+captive_portal:
+
+# Enable logging
+logger:
+  level: info
+
+ota:
+  password: !secret ota_password
+
+mqtt:
+  broker: 192.168.100.5
+  topic_prefix: esphome/blesensor
+  birth_message:
+    topic: birth_status
+    payload: "online"
+
+  will_message:
+    topic: will_status
+    payload: "offline"
+
+sensor:
+  - platform: template
+    name: "iBBQ Temperature Probe 1"
+    expire_after: 300s
+    id: ble_sensor_1
+    unit_of_measurement: "°C"
+    accuracy_decimals: 1
+
+  - platform: template
+    name: "iBBQ Temperature Probe 2"
+    expire_after: 300s
+    id: ble_sensor_2
+    unit_of_measurement: "°C"
+    accuracy_decimals: 1
+
+  - platform: template
+    name: "iBBQ Temperature Probe 3"
+    expire_after: 300s
+    id: ble_sensor_3
+    unit_of_measurement: "°C"
+    accuracy_decimals: 1
+
+  - platform: template
+    name: "iBBQ Temperature Probe 4"
+    expire_after: 300s
+    id: ble_sensor_4
+    unit_of_measurement: "°C"
+    accuracy_decimals: 1
+
+esp32_ble_tracker:
+  on_ble_advertise:
+    - lambda: |-
+        if (x.get_name() != "iBBQ") return;
+        ESP_LOGI("ble_adv", "New BLE device");
+        ESP_LOGI("ble_adv", "  address: %s", x.address_str().c_str());
+        ESP_LOGI("ble_adv", "  name: %s", x.get_name().c_str());
+        ESP_LOGI("ble_adv", "  Advertised service UUIDs:");
+        for (auto uuid : x.get_service_uuids()) {
+            ESP_LOGI("ble_adv", "    - %s", uuid.to_string().c_str());
+        }
+        ESP_LOGI("ble_adv", "  Advertised service data:");
+        for (auto data : x.get_service_datas()) {
+            ESP_LOGI("ble_adv", "    - %s: (length %i)", data.uuid.to_string().c_str(), data.data.size());
+        }
+        ESP_LOGI("ble_adv", "  Advertised manufacturer data:");
+        for (auto data : x.get_manufacturer_datas()) {
+            ESP_LOGI("ble_adv", "    - %s: (%s)", data.uuid.to_string().c_str(), hexencode(data.data).c_str());
+            if (data.uuid.contains(0, 0)) {
+
+              int probe0 = (data.data[9] << 8) + data.data[8];
+              int probe1 = (data.data[11] << 8) + data.data[10];
+              int probe2 = (data.data[13] << 8) + data.data[12];
+              int probe3 = (data.data[15] << 8) + data.data[14];
+              ESP_LOGI("ble_data", "    - %f %f %f %f", probe0 / 10.0, probe1 / 10.0, probe2 / 10.0, probe3 / 10.0);
+              if (probe0 < 60000) {
+                id(ble_sensor_1).publish_state(probe0 / 10.0);
+              }
+              if (probe1 < 60000) {
+                id(ble_sensor_2).publish_state(probe1 / 10.0);
+              }
+              if (probe2 < 60000) {
+                id(ble_sensor_3).publish_state(probe2 / 10.0);
+              }
+              if (probe3 < 60000) {
+                id(ble_sensor_4).publish_state(probe3 / 10.0);
+              }
+
+            }
+        }
+
+# exposure_notifications:
+#   on_exposure_notification:
+#     then:
+#       - lambda: |
+#           ESP_LOGI("main", "Got notification:");
+#           ESP_LOGI("main", "  RPI: %s", hexencode(x.rolling_proximity_identifier).c_str());
+#           ESP_LOGI("main", "  RSSI: %d", x.rssi);

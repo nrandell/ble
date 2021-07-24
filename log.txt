@@ -1,0 +1,1294 @@
+INFO Starting log output from esphome/blesensor/debug
+INFO Connected to MQTT broker!
+[21:03:16][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:16][I][ble_adv:224]: New BLE device
+[21:03:16][I][ble_adv:225]:   address: 37:CF:48:5F:52:CF
+[21:03:16][I][ble_adv:226]:   name:
+[21:03:16][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:16][I][ble_adv:231]:   Advertised service data:
+[21:03:16][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:16][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:16][I][ble_adv:224]: New BLE device
+[21:03:17][I][ble_adv:225]:   address: C5:F7:EE:BA:BC:86
+[21:03:17][I][ble_adv:226]:   name: N05LX
+[21:03:17][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:17][I][ble_adv:229]:     - FE:AF
+[21:03:17][I][ble_adv:231]:   Advertised service data:
+[21:03:17][I][ble_adv:233]:     - FE:AF: (length 17)
+[21:03:17][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:17][I][ble_adv:224]: New BLE device
+[21:03:17][I][ble_adv:225]:   address: 37:CF:48:5F:52:CF
+[21:03:17][I][ble_adv:226]:   name:
+[21:03:17][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:17][I][ble_adv:231]:   Advertised service data:
+[21:03:17][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:17][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:18][I][ble_adv:224]: New BLE device
+[21:03:18][I][ble_adv:225]:   address: C5:F7:EE:BA:BC:86
+[21:03:18][I][ble_adv:226]:   name: N05LX
+[21:03:18][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:18][I][ble_adv:229]:     - FE:AF
+[21:03:18][I][ble_adv:231]:   Advertised service data:
+[21:03:18][I][ble_adv:233]:     - FE:AF: (length 17)
+[21:03:18][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:18][I][ble_adv:224]: New BLE device
+[21:03:18][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:03:18][I][ble_adv:226]:   name:
+[21:03:18][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:18][I][ble_adv:231]:   Advertised service data:
+[21:03:18][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:18][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:18][I][ble_adv:224]: New BLE device
+[21:03:18][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:03:18][I][ble_adv:226]:   name:
+[21:03:18][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:18][I][ble_adv:231]:   Advertised service data:
+[21:03:18][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:18][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:19][I][ble_adv:224]: New BLE device
+[21:03:19][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:03:19][I][ble_adv:226]:   name:
+[21:03:19][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:19][I][ble_adv:231]:   Advertised service data:
+[21:03:19][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:19][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:19][I][ble_adv:224]: New BLE device
+[21:03:19][I][ble_adv:225]:   address: C5:F7:EE:BA:BC:86
+[21:03:19][I][ble_adv:226]:   name: N05LX
+[21:03:19][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:19][I][ble_adv:229]:     - FE:AF
+[21:03:19][I][ble_adv:231]:   Advertised service data:
+[21:03:19][I][ble_adv:233]:     - FE:AF: (length 17)
+[21:03:19][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:19][I][ble_adv:224]: New BLE device
+[21:03:19][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:03:19][I][ble_adv:226]:   name:
+[21:03:19][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:19][I][ble_adv:231]:   Advertised service data:
+[21:03:19][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:20][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:22][I][ble_adv:224]: New BLE device
+[21:03:22][I][ble_adv:225]:   address: 47:DD:00:9A:81:BB
+[21:03:22][I][ble_adv:226]:   name:
+[21:03:22][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:22][I][ble_adv:231]:   Advertised service data:
+[21:03:22][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:22][I][ble_adv:237]:     - 00:4C: (length 7)
+[21:03:22][I][ble_adv:224]: New BLE device
+[21:03:22][I][ble_adv:225]:   address: 37:CF:48:5F:52:CF
+[21:03:22][I][ble_adv:226]:   name:
+[21:03:22][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:22][I][ble_adv:231]:   Advertised service data:
+[21:03:22][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:22][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:22][I][ble_adv:224]: New BLE device
+[21:03:23][I][ble_adv:225]:   address: 37:CF:48:5F:52:CF
+[21:03:23][I][ble_adv:226]:   name:
+[21:03:23][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:23][I][ble_adv:231]:   Advertised service data:
+[21:03:23][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:23][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:23][I][ble_adv:224]: New BLE device
+[21:03:23][I][ble_adv:225]:   address: 37:CF:48:5F:52:CF
+[21:03:23][I][ble_adv:226]:   name:
+[21:03:23][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:23][I][ble_adv:231]:   Advertised service data:
+[21:03:23][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:23][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:23][I][ble_adv:224]: New BLE device
+[21:03:23][I][ble_adv:225]:   address: 37:CF:48:5F:52:CF
+[21:03:23][I][ble_adv:226]:   name:
+[21:03:23][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:23][I][ble_adv:231]:   Advertised service data:
+[21:03:23][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:23][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:24][I][ble_adv:224]: New BLE device
+[21:03:24][I][ble_adv:225]:   address: 47:DD:00:9A:81:BB
+[21:03:24][I][ble_adv:226]:   name:
+[21:03:24][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:24][I][ble_adv:231]:   Advertised service data:
+[21:03:24][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:24][I][ble_adv:237]:     - 00:4C: (length 7)
+[21:03:24][I][ble_adv:224]: New BLE device
+[21:03:24][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:03:24][I][ble_adv:226]:   name:
+[21:03:24][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:24][I][ble_adv:231]:   Advertised service data:
+[21:03:24][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:24][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:25][I][ble_adv:224]: New BLE device
+[21:03:25][I][ble_adv:225]:   address: 54:B1:91:BD:E6:4D
+[21:03:25][I][ble_adv:226]:   name:
+[21:03:25][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:25][I][ble_adv:229]:     - FD:6F
+[21:03:25][I][ble_adv:231]:   Advertised service data:
+[21:03:25][I][ble_adv:233]:     - FD:6F: (length 20)
+[21:03:25][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:25][I][main:216]: Got notification:
+[21:03:25][I][main:217]:   RPI: 31.4E.B2.06.8A.9A.09.1A.81.C1.C4.3B.B2.37.A1.74 (16)
+[21:03:25][I][main:218]:   RSSI: -65
+[21:03:25][I][ble_adv:224]: New BLE device
+[21:03:25][I][ble_adv:225]:   address: 47:DD:00:9A:81:BB
+[21:03:25][I][ble_adv:226]:   name:
+[21:03:25][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:25][I][ble_adv:231]:   Advertised service data:
+[21:03:25][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:25][I][ble_adv:237]:     - 00:4C: (length 7)
+[21:03:28][I][ble_adv:224]: New BLE device
+[21:03:28][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:03:28][I][ble_adv:226]:   name:
+[21:03:28][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:28][I][ble_adv:231]:   Advertised service data:
+[21:03:28][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:28][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:28][I][ble_adv:224]: New BLE device
+[21:03:28][I][ble_adv:225]:   address: 54:B1:91:BD:E6:4D
+[21:03:28][I][ble_adv:226]:   name:
+[21:03:28][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:28][I][ble_adv:229]:     - FD:6F
+[21:03:28][I][ble_adv:231]:   Advertised service data:
+[21:03:28][I][ble_adv:233]:     - FD:6F: (length 20)
+[21:03:28][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:28][I][main:216]: Got notification:
+[21:03:28][I][main:217]:   RPI: 31.4E.B2.06.8A.9A.09.1A.81.C1.C4.3B.B2.37.A1.74 (16)
+[21:03:28][I][main:218]:   RSSI: -65
+[21:03:28][I][ble_adv:224]: New BLE device
+[21:03:28][I][ble_adv:225]:   address: 37:CF:48:5F:52:CF
+[21:03:28][I][ble_adv:226]:   name:
+[21:03:28][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:28][I][ble_adv:231]:   Advertised service data:
+[21:03:28][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:28][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:29][I][ble_adv:224]: New BLE device
+[21:03:29][I][ble_adv:225]:   address: 37:CF:48:5F:52:CF
+[21:03:29][I][ble_adv:226]:   name:
+[21:03:29][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:29][I][ble_adv:231]:   Advertised service data:
+[21:03:29][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:29][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:29][I][ble_adv:224]: New BLE device
+[21:03:29][I][ble_adv:225]:   address: 37:CF:48:5F:52:CF
+[21:03:29][I][ble_adv:226]:   name:
+[21:03:29][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:29][I][ble_adv:231]:   Advertised service data:
+[21:03:29][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:29][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:30][I][ble_adv:224]: New BLE device
+[21:03:30][I][ble_adv:225]:   address: 54:B1:91:BD:E6:4D
+[21:03:30][I][ble_adv:226]:   name:
+[21:03:30][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:30][I][ble_adv:229]:     - FD:6F
+[21:03:30][I][ble_adv:231]:   Advertised service data:
+[21:03:30][I][ble_adv:233]:     - FD:6F: (length 20)
+[21:03:30][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:30][I][main:216]: Got notification:
+[21:03:30][I][main:217]:   RPI: 31.4E.B2.06.8A.9A.09.1A.81.C1.C4.3B.B2.37.A1.74 (16)
+[21:03:30][I][main:218]:   RSSI: -66
+[21:03:31][I][ble_adv:224]: New BLE device
+[21:03:31][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:03:31][I][ble_adv:226]:   name:
+[21:03:31][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:31][I][ble_adv:231]:   Advertised service data:
+[21:03:31][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:31][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:32][I][ble_adv:224]: New BLE device
+[21:03:32][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:03:32][I][ble_adv:226]:   name:
+[21:03:32][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:32][I][ble_adv:231]:   Advertised service data:
+[21:03:32][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:32][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:32][I][ble_adv:224]: New BLE device
+[21:03:32][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:03:32][I][ble_adv:226]:   name:
+[21:03:32][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:32][I][ble_adv:231]:   Advertised service data:
+[21:03:32][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:32][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:33][I][ble_adv:224]: New BLE device
+[21:03:33][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:03:33][I][ble_adv:226]:   name:
+[21:03:33][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:33][I][ble_adv:231]:   Advertised service data:
+[21:03:33][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:33][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:33][I][ble_adv:224]: New BLE device
+[21:03:33][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:03:33][I][ble_adv:226]:   name:
+[21:03:33][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:33][I][ble_adv:231]:   Advertised service data:
+[21:03:33][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:33][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:33][I][ble_adv:224]: New BLE device
+[21:03:33][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:03:33][I][ble_adv:226]:   name:
+[21:03:33][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:33][I][ble_adv:231]:   Advertised service data:
+[21:03:33][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:33][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:35][I][ble_adv:224]: New BLE device
+[21:03:35][I][ble_adv:225]:   address: 5A:AA:8B:34:41:60
+[21:03:35][I][ble_adv:226]:   name:
+[21:03:35][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:35][I][ble_adv:229]:     - FE:9F
+[21:03:35][I][ble_adv:231]:   Advertised service data:
+[21:03:35][I][ble_adv:233]:     - FE:9F: (length 20)
+[21:03:35][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:35][I][ble_adv:237]:     - 00:E0: (length 6)
+[21:03:36][I][ble_adv:224]: New BLE device
+[21:03:36][I][ble_adv:225]:   address: 54:B1:91:BD:E6:4D
+[21:03:36][I][ble_adv:226]:   name:
+[21:03:36][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:36][I][ble_adv:229]:     - FD:6F
+[21:03:36][I][ble_adv:231]:   Advertised service data:
+[21:03:36][I][ble_adv:233]:     - FD:6F: (length 20)
+[21:03:36][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:36][I][main:216]: Got notification:
+[21:03:36][I][main:217]:   RPI: 31.4E.B2.06.8A.9A.09.1A.81.C1.C4.3B.B2.37.A1.74 (16)
+[21:03:36][I][main:218]:   RSSI: -70
+[21:03:36][I][ble_adv:224]: New BLE device
+[21:03:36][I][ble_adv:225]:   address: CB:FD:57:3B:9A:0D
+[21:03:36][I][ble_adv:226]:   name: Tile
+[21:03:36][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:36][I][ble_adv:229]:     - FE:ED
+[21:03:36][I][ble_adv:231]:   Advertised service data:
+[21:03:36][I][ble_adv:233]:     - FE:ED: (length 10)
+[21:03:36][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:36][I][ble_adv:224]: New BLE device
+[21:03:36][I][ble_adv:225]:   address: 37:CF:48:5F:52:CF
+[21:03:36][I][ble_adv:226]:   name:
+[21:03:36][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:36][I][ble_adv:231]:   Advertised service data:
+[21:03:36][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:36][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:36][I][ble_adv:224]: New BLE device
+[21:03:36][I][ble_adv:225]:   address: 47:DD:00:9A:81:BB
+[21:03:36][I][ble_adv:226]:   name:
+[21:03:36][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:36][I][ble_adv:231]:   Advertised service data:
+[21:03:36][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:36][I][ble_adv:237]:     - 00:4C: (length 7)
+[21:03:37][I][ble_adv:224]: New BLE device
+[21:03:37][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:03:37][I][ble_adv:226]:   name:
+[21:03:37][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:37][I][ble_adv:231]:   Advertised service data:
+[21:03:37][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:37][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:37][I][ble_adv:224]: New BLE device
+[21:03:37][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:03:37][I][ble_adv:226]:   name:
+[21:03:37][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:37][I][ble_adv:231]:   Advertised service data:
+[21:03:37][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:37][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:37][I][ble_adv:224]: New BLE device
+[21:03:38][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:03:38][I][ble_adv:226]:   name:
+[21:03:38][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:38][I][ble_adv:231]:   Advertised service data:
+[21:03:38][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:38][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:38][I][ble_adv:224]: New BLE device
+[21:03:38][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:03:38][I][ble_adv:226]:   name:
+[21:03:38][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:38][I][ble_adv:231]:   Advertised service data:
+[21:03:38][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:38][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:38][I][ble_adv:224]: New BLE device
+[21:03:38][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:03:38][I][ble_adv:226]:   name:
+[21:03:38][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:38][I][ble_adv:231]:   Advertised service data:
+[21:03:38][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:38][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:38][I][ble_adv:224]: New BLE device
+[21:03:39][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:03:39][I][ble_adv:226]:   name:
+[21:03:39][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:39][I][ble_adv:231]:   Advertised service data:
+[21:03:39][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:39][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:39][I][ble_adv:224]: New BLE device
+[21:03:39][I][ble_adv:225]:   address: 54:B1:91:BD:E6:4D
+[21:03:39][I][ble_adv:226]:   name:
+[21:03:39][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:39][I][ble_adv:229]:     - FD:6F
+[21:03:39][I][ble_adv:231]:   Advertised service data:
+[21:03:39][I][ble_adv:233]:     - FD:6F: (length 20)
+[21:03:39][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:39][I][main:216]: Got notification:
+[21:03:39][I][main:217]:   RPI: 31.4E.B2.06.8A.9A.09.1A.81.C1.C4.3B.B2.37.A1.74 (16)
+[21:03:39][I][main:218]:   RSSI: -71
+[21:03:39][I][ble_adv:224]: New BLE device
+[21:03:39][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:03:39][I][ble_adv:226]:   name:
+[21:03:39][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:39][I][ble_adv:231]:   Advertised service data:
+[21:03:39][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:39][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:39][I][ble_adv:224]: New BLE device
+[21:03:39][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:03:39][I][ble_adv:226]:   name:
+[21:03:39][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:39][I][ble_adv:231]:   Advertised service data:
+[21:03:39][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:39][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:39][I][ble_adv:224]: New BLE device
+[21:03:39][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:03:39][I][ble_adv:226]:   name:
+[21:03:39][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:39][I][ble_adv:231]:   Advertised service data:
+[21:03:39][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:39][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:40][I][ble_adv:224]: New BLE device
+[21:03:40][I][ble_adv:225]:   address: 47:DD:00:9A:81:BB
+[21:03:40][I][ble_adv:226]:   name:
+[21:03:40][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:40][I][ble_adv:231]:   Advertised service data:
+[21:03:40][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:40][I][ble_adv:237]:     - 00:4C: (length 7)
+[21:03:40][I][ble_adv:224]: New BLE device
+[21:03:40][I][ble_adv:225]:   address: 5A:AA:8B:34:41:60
+[21:03:40][I][ble_adv:226]:   name:
+[21:03:40][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:40][I][ble_adv:229]:     - FE:9F
+[21:03:40][I][ble_adv:231]:   Advertised service data:
+[21:03:40][I][ble_adv:233]:     - FE:9F: (length 20)
+[21:03:40][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:40][I][ble_adv:237]:     - 00:E0: (length 6)
+[21:03:41][I][ble_adv:224]: New BLE device
+[21:03:41][I][ble_adv:225]:   address: E7:D7:E4:FE:9E:98
+[21:03:41][I][ble_adv:226]:   name: N0TBX
+[21:03:41][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:41][I][ble_adv:229]:     - FE:AF
+[21:03:41][I][ble_adv:231]:   Advertised service data:
+[21:03:41][I][ble_adv:233]:     - FE:AF: (length 17)
+[21:03:41][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:41][I][ble_adv:224]: New BLE device
+[21:03:41][I][ble_adv:225]:   address: 54:B1:91:BD:E6:4D
+[21:03:41][I][ble_adv:226]:   name:
+[21:03:41][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:41][I][ble_adv:229]:     - FD:6F
+[21:03:41][I][ble_adv:231]:   Advertised service data:
+[21:03:41][I][ble_adv:233]:     - FD:6F: (length 20)
+[21:03:41][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:41][I][main:216]: Got notification:
+[21:03:41][I][main:217]:   RPI: 31.4E.B2.06.8A.9A.09.1A.81.C1.C4.3B.B2.37.A1.74 (16)
+[21:03:41][I][main:218]:   RSSI: -66
+[21:03:42][I][ble_adv:224]: New BLE device
+[21:03:42][I][ble_adv:225]:   address: 47:DD:00:9A:81:BB
+[21:03:42][I][ble_adv:226]:   name:
+[21:03:42][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:42][I][ble_adv:231]:   Advertised service data:
+[21:03:42][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:42][I][ble_adv:237]:     - 00:4C: (length 7)
+[21:03:42][I][ble_adv:224]: New BLE device
+[21:03:42][I][ble_adv:225]:   address: 37:CF:48:5F:52:CF
+[21:03:42][I][ble_adv:226]:   name:
+[21:03:42][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:42][I][ble_adv:231]:   Advertised service data:
+[21:03:42][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:42][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:42][I][ble_adv:224]: New BLE device
+[21:03:42][I][ble_adv:225]:   address: 67:86:D5:74:D0:A0
+[21:03:42][I][ble_adv:226]:   name:
+[21:03:42][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:42][I][ble_adv:231]:   Advertised service data:
+[21:03:42][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:42][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:43][I][ble_adv:224]: New BLE device
+[21:03:43][I][ble_adv:225]:   address: 37:CF:48:5F:52:CF
+[21:03:43][I][ble_adv:226]:   name:
+[21:03:43][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:43][I][ble_adv:231]:   Advertised service data:
+[21:03:43][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:43][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:44][I][ble_adv:224]: New BLE device
+[21:03:44][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:03:44][I][ble_adv:226]:   name:
+[21:03:44][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:44][I][ble_adv:231]:   Advertised service data:
+[21:03:44][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:44][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:44][I][ble_adv:224]: New BLE device
+[21:03:44][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:03:44][I][ble_adv:226]:   name:
+[21:03:44][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:44][I][ble_adv:231]:   Advertised service data:
+[21:03:44][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:44][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:44][I][ble_adv:224]: New BLE device
+[21:03:44][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:03:44][I][ble_adv:226]:   name:
+[21:03:44][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:44][I][ble_adv:231]:   Advertised service data:
+[21:03:44][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:44][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:45][I][ble_adv:224]: New BLE device
+[21:03:45][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:03:45][I][ble_adv:226]:   name:
+[21:03:45][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:45][I][ble_adv:231]:   Advertised service data:
+[21:03:45][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:45][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:45][I][ble_adv:224]: New BLE device
+[21:03:45][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:03:45][I][ble_adv:226]:   name:
+[21:03:45][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:45][I][ble_adv:231]:   Advertised service data:
+[21:03:45][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:45][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:45][I][ble_adv:224]: New BLE device
+[21:03:45][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:03:45][I][ble_adv:226]:   name:
+[21:03:45][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:45][I][ble_adv:231]:   Advertised service data:
+[21:03:45][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:45][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:46][I][ble_adv:224]: New BLE device
+[21:03:47][I][ble_adv:225]:   address: 54:B1:91:BD:E6:4D
+[21:03:47][I][ble_adv:226]:   name:
+[21:03:47][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:47][I][ble_adv:229]:     - FD:6F
+[21:03:47][I][ble_adv:231]:   Advertised service data:
+[21:03:47][I][ble_adv:233]:     - FD:6F: (length 20)
+[21:03:47][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:47][I][main:216]: Got notification:
+[21:03:47][I][main:217]:   RPI: 31.4E.B2.06.8A.9A.09.1A.81.C1.C4.3B.B2.37.A1.74 (16)
+[21:03:47][I][main:218]:   RSSI: -64
+[21:03:47][I][ble_adv:224]: New BLE device
+[21:03:47][I][ble_adv:225]:   address: 37:CF:48:5F:52:CF
+[21:03:47][I][ble_adv:226]:   name:
+[21:03:47][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:47][I][ble_adv:231]:   Advertised service data:
+[21:03:47][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:47][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:49][I][ble_adv:224]: New BLE device
+[21:03:49][I][ble_adv:225]:   address: 54:B1:91:BD:E6:4D
+[21:03:49][I][ble_adv:226]:   name:
+[21:03:49][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:49][I][ble_adv:229]:     - FD:6F
+[21:03:49][I][ble_adv:231]:   Advertised service data:
+[21:03:49][I][ble_adv:233]:     - FD:6F: (length 20)
+[21:03:49][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:49][I][main:216]: Got notification:
+[21:03:49][I][main:217]:   RPI: 31.4E.B2.06.8A.9A.09.1A.81.C1.C4.3B.B2.37.A1.74 (16)
+[21:03:49][I][main:218]:   RSSI: -71
+[21:03:49][I][ble_adv:224]: New BLE device
+[21:03:49][I][ble_adv:225]:   address: 54:B1:91:BD:E6:4D
+[21:03:49][I][ble_adv:226]:   name:
+[21:03:49][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:49][I][ble_adv:229]:     - FD:6F
+[21:03:49][I][ble_adv:231]:   Advertised service data:
+[21:03:49][I][ble_adv:233]:     - FD:6F: (length 20)
+[21:03:49][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:49][I][main:216]: Got notification:
+[21:03:49][I][main:217]:   RPI: 31.4E.B2.06.8A.9A.09.1A.81.C1.C4.3B.B2.37.A1.74 (16)
+[21:03:49][I][main:218]:   RSSI: -64
+[21:03:50][I][ble_adv:224]: New BLE device
+[21:03:50][I][ble_adv:225]:   address: 5A:AA:8B:34:41:60
+[21:03:50][I][ble_adv:226]:   name:
+[21:03:50][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:50][I][ble_adv:229]:     - FE:9F
+[21:03:50][I][ble_adv:231]:   Advertised service data:
+[21:03:50][I][ble_adv:233]:     - FE:9F: (length 20)
+[21:03:50][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:50][I][ble_adv:237]:     - 00:E0: (length 6)
+[21:03:51][I][ble_adv:224]: New BLE device
+[21:03:51][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:03:51][I][ble_adv:226]:   name:
+[21:03:51][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:51][I][ble_adv:231]:   Advertised service data:
+[21:03:51][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:51][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:51][I][ble_adv:224]: New BLE device
+[21:03:51][I][ble_adv:225]:   address: 5A:AA:8B:34:41:60
+[21:03:51][I][ble_adv:226]:   name:
+[21:03:51][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:51][I][ble_adv:229]:     - FE:9F
+[21:03:51][I][ble_adv:231]:   Advertised service data:
+[21:03:51][I][ble_adv:233]:     - FE:9F: (length 20)
+[21:03:51][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:51][I][ble_adv:237]:     - 00:E0: (length 6)
+[21:03:52][I][ble_adv:224]: New BLE device
+[21:03:52][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:03:52][I][ble_adv:226]:   name:
+[21:03:52][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:52][I][ble_adv:231]:   Advertised service data:
+[21:03:52][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:52][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:52][I][ble_adv:224]: New BLE device
+[21:03:52][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:03:52][I][ble_adv:226]:   name:
+[21:03:52][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:52][I][ble_adv:231]:   Advertised service data:
+[21:03:52][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:52][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:53][I][ble_adv:224]: New BLE device
+[21:03:53][I][ble_adv:225]:   address: 47:DD:00:9A:81:BB
+[21:03:53][I][ble_adv:226]:   name:
+[21:03:53][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:53][I][ble_adv:231]:   Advertised service data:
+[21:03:53][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:53][I][ble_adv:237]:     - 00:4C: (length 7)
+[21:03:53][I][ble_adv:224]: New BLE device
+[21:03:53][I][ble_adv:225]:   address: 37:CF:48:5F:52:CF
+[21:03:53][I][ble_adv:226]:   name:
+[21:03:53][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:53][I][ble_adv:231]:   Advertised service data:
+[21:03:53][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:53][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:56][I][ble_adv:224]: New BLE device
+[21:03:56][I][ble_adv:225]:   address: 47:DD:00:9A:81:BB
+[21:03:56][I][ble_adv:226]:   name:
+[21:03:56][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:56][I][ble_adv:231]:   Advertised service data:
+[21:03:56][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:56][I][ble_adv:237]:     - 00:4C: (length 7)
+[21:03:56][I][ble_adv:224]: New BLE device
+[21:03:56][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:03:56][I][ble_adv:226]:   name:
+[21:03:56][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:56][I][ble_adv:231]:   Advertised service data:
+[21:03:56][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:56][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:57][I][ble_adv:224]: New BLE device
+[21:03:57][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:03:57][I][ble_adv:226]:   name:
+[21:03:57][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:57][I][ble_adv:231]:   Advertised service data:
+[21:03:57][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:57][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:57][I][ble_adv:224]: New BLE device
+[21:03:57][I][ble_adv:225]:   address: 54:B1:91:BD:E6:4D
+[21:03:57][I][ble_adv:226]:   name:
+[21:03:57][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:57][I][ble_adv:229]:     - FD:6F
+[21:03:57][I][ble_adv:231]:   Advertised service data:
+[21:03:57][I][ble_adv:233]:     - FD:6F: (length 20)
+[21:03:57][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:57][I][main:216]: Got notification:
+[21:03:57][I][main:217]:   RPI: 31.4E.B2.06.8A.9A.09.1A.81.C1.C4.3B.B2.37.A1.74 (16)
+[21:03:57][I][main:218]:   RSSI: -65
+[21:03:58][I][ble_adv:224]: New BLE device
+[21:03:58][I][ble_adv:225]:   address: 37:CF:48:5F:52:CF
+[21:03:58][I][ble_adv:226]:   name:
+[21:03:58][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:58][I][ble_adv:231]:   Advertised service data:
+[21:03:58][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:58][I][ble_adv:237]:     - 00:06: (length 27)
+[21:03:59][I][ble_adv:224]: New BLE device
+[21:03:59][I][ble_adv:225]:   address: C5:F7:EE:BA:BC:86
+[21:03:59][I][ble_adv:226]:   name: N05LX
+[21:03:59][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:59][I][ble_adv:229]:     - FE:AF
+[21:03:59][I][ble_adv:231]:   Advertised service data:
+[21:03:59][I][ble_adv:233]:     - FE:AF: (length 17)
+[21:03:59][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:59][I][ble_adv:224]: New BLE device
+[21:03:59][I][ble_adv:225]:   address: 37:CF:48:5F:52:CF
+[21:03:59][I][ble_adv:226]:   name:
+[21:03:59][I][ble_adv:227]:   Advertised service UUIDs:
+[21:03:59][I][ble_adv:231]:   Advertised service data:
+[21:03:59][I][ble_adv:235]:   Advertised manufacturer data:
+[21:03:59][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:00][I][ble_adv:224]: New BLE device
+[21:04:00][I][ble_adv:225]:   address: 54:B1:91:BD:E6:4D
+[21:04:00][I][ble_adv:226]:   name:
+[21:04:00][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:00][I][ble_adv:229]:     - FD:6F
+[21:04:00][I][ble_adv:231]:   Advertised service data:
+[21:04:00][I][ble_adv:233]:     - FD:6F: (length 20)
+[21:04:00][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:00][I][main:216]: Got notification:
+[21:04:00][I][main:217]:   RPI: 31.4E.B2.06.8A.9A.09.1A.81.C1.C4.3B.B2.37.A1.74 (16)
+[21:04:00][I][main:218]:   RSSI: -64
+[21:04:00][I][ble_adv:224]: New BLE device
+[21:04:00][I][ble_adv:225]:   address: C5:F7:EE:BA:BC:86
+[21:04:00][I][ble_adv:226]:   name: N05LX
+[21:04:00][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:00][I][ble_adv:229]:     - FE:AF
+[21:04:00][I][ble_adv:231]:   Advertised service data:
+[21:04:00][I][ble_adv:233]:     - FE:AF: (length 17)
+[21:04:00][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:01][I][ble_adv:224]: New BLE device
+[21:04:02][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:02][I][ble_adv:226]:   name:
+[21:04:02][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:02][I][ble_adv:231]:   Advertised service data:
+[21:04:02][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:02][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:02][I][ble_adv:224]: New BLE device
+[21:04:02][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:02][I][ble_adv:226]:   name:
+[21:04:02][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:02][I][ble_adv:231]:   Advertised service data:
+[21:04:02][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:02][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:02][I][ble_adv:224]: New BLE device
+[21:04:02][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:02][I][ble_adv:226]:   name:
+[21:04:02][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:02][I][ble_adv:231]:   Advertised service data:
+[21:04:02][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:02][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:02][I][ble_adv:224]: New BLE device
+[21:04:02][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:02][I][ble_adv:226]:   name:
+[21:04:02][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:02][I][ble_adv:231]:   Advertised service data:
+[21:04:02][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:03][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:03][I][ble_adv:224]: New BLE device
+[21:04:03][I][ble_adv:225]:   address: 54:B1:91:BD:E6:4D
+[21:04:03][I][ble_adv:226]:   name:
+[21:04:03][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:03][I][ble_adv:229]:     - FD:6F
+[21:04:03][I][ble_adv:231]:   Advertised service data:
+[21:04:03][I][ble_adv:233]:     - FD:6F: (length 20)
+[21:04:03][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:03][I][main:216]: Got notification:
+[21:04:03][I][main:217]:   RPI: 31.4E.B2.06.8A.9A.09.1A.81.C1.C4.3B.B2.37.A1.74 (16)
+[21:04:03][I][main:218]:   RSSI: -64
+[21:04:05][I][ble_adv:224]: New BLE device
+[21:04:05][I][ble_adv:225]:   address: 47:DD:00:9A:81:BB
+[21:04:05][I][ble_adv:226]:   name:
+[21:04:05][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:05][I][ble_adv:231]:   Advertised service data:
+[21:04:05][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:05][I][ble_adv:237]:     - 00:4C: (length 7)
+[21:04:05][I][ble_adv:224]: New BLE device
+[21:04:05][I][ble_adv:225]:   address: 37:CF:48:5F:52:CF
+[21:04:05][I][ble_adv:226]:   name:
+[21:04:05][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:05][I][ble_adv:231]:   Advertised service data:
+[21:04:05][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:05][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:07][I][ble_adv:224]: New BLE device
+[21:04:07][I][ble_adv:225]:   address: 37:CF:48:5F:52:CF
+[21:04:07][I][ble_adv:226]:   name:
+[21:04:07][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:07][I][ble_adv:231]:   Advertised service data:
+[21:04:07][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:07][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:07][I][ble_adv:224]: New BLE device
+[21:04:07][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:07][I][ble_adv:226]:   name:
+[21:04:07][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:07][I][ble_adv:231]:   Advertised service data:
+[21:04:07][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:07][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:07][I][ble_adv:224]: New BLE device
+[21:04:07][I][ble_adv:225]:   address: 47:DD:00:9A:81:BB
+[21:04:07][I][ble_adv:226]:   name:
+[21:04:07][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:07][I][ble_adv:231]:   Advertised service data:
+[21:04:07][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:07][I][ble_adv:237]:     - 00:4C: (length 7)
+[21:04:07][I][ble_adv:224]: New BLE device
+[21:04:07][I][ble_adv:225]:   address: 37:CF:48:5F:52:CF
+[21:04:07][I][ble_adv:226]:   name:
+[21:04:07][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:07][I][ble_adv:231]:   Advertised service data:
+[21:04:07][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:07][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:07][I][ble_adv:224]: New BLE device
+[21:04:07][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:08][I][ble_adv:226]:   name:
+[21:04:08][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:08][I][ble_adv:231]:   Advertised service data:
+[21:04:08][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:08][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:08][I][ble_adv:224]: New BLE device
+[21:04:08][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:08][I][ble_adv:226]:   name:
+[21:04:08][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:08][I][ble_adv:231]:   Advertised service data:
+[21:04:08][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:08][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:08][I][ble_adv:224]: New BLE device
+[21:04:08][I][ble_adv:225]:   address: 54:B1:91:BD:E6:4D
+[21:04:08][I][ble_adv:226]:   name:
+[21:04:08][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:08][I][ble_adv:229]:     - FD:6F
+[21:04:08][I][ble_adv:231]:   Advertised service data:
+[21:04:08][I][ble_adv:233]:     - FD:6F: (length 20)
+[21:04:08][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:08][I][main:216]: Got notification:
+[21:04:08][I][main:217]:   RPI: 31.4E.B2.06.8A.9A.09.1A.81.C1.C4.3B.B2.37.A1.74 (16)
+[21:04:08][I][main:218]:   RSSI: -73
+[21:04:09][I][ble_adv:224]: New BLE device
+[21:04:09][I][ble_adv:225]:   address: 67:86:D5:74:D0:A0
+[21:04:09][I][ble_adv:226]:   name:
+[21:04:09][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:09][I][ble_adv:231]:   Advertised service data:
+[21:04:09][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:09][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:11][I][ble_adv:224]: New BLE device
+[21:04:11][I][ble_adv:225]:   address: 37:CF:48:5F:52:CF
+[21:04:11][I][ble_adv:226]:   name:
+[21:04:11][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:11][I][ble_adv:231]:   Advertised service data:
+[21:04:11][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:11][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:11][I][ble_adv:224]: New BLE device
+[21:04:11][I][ble_adv:225]:   address: 54:B1:91:BD:E6:4D
+[21:04:11][I][ble_adv:226]:   name:
+[21:04:11][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:11][I][ble_adv:229]:     - FD:6F
+[21:04:11][I][ble_adv:231]:   Advertised service data:
+[21:04:11][I][ble_adv:233]:     - FD:6F: (length 20)
+[21:04:11][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:11][I][main:216]: Got notification:
+[21:04:11][I][main:217]:   RPI: 31.4E.B2.06.8A.9A.09.1A.81.C1.C4.3B.B2.37.A1.74 (16)
+[21:04:11][I][main:218]:   RSSI: -72
+[21:04:11][I][ble_adv:224]: New BLE device
+[21:04:11][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:11][I][ble_adv:226]:   name:
+[21:04:11][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:11][I][ble_adv:231]:   Advertised service data:
+[21:04:11][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:11][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:11][I][ble_adv:224]: New BLE device
+[21:04:11][I][ble_adv:225]:   address: 37:CF:48:5F:52:CF
+[21:04:11][I][ble_adv:226]:   name:
+[21:04:11][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:11][I][ble_adv:231]:   Advertised service data:
+[21:04:11][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:12][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:12][I][ble_adv:224]: New BLE device
+[21:04:12][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:12][I][ble_adv:226]:   name:
+[21:04:12][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:12][I][ble_adv:231]:   Advertised service data:
+[21:04:12][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:12][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:12][I][ble_adv:224]: New BLE device
+[21:04:12][I][ble_adv:225]:   address: 47:DD:00:9A:81:BB
+[21:04:12][I][ble_adv:226]:   name:
+[21:04:12][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:12][I][ble_adv:231]:   Advertised service data:
+[21:04:12][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:12][I][ble_adv:237]:     - 00:4C: (length 7)
+[21:04:13][I][ble_adv:224]: New BLE device
+[21:04:13][I][ble_adv:225]:   address: 37:CF:48:5F:52:CF
+[21:04:13][I][ble_adv:226]:   name:
+[21:04:13][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:13][I][ble_adv:231]:   Advertised service data:
+[21:04:13][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:13][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:14][I][ble_adv:224]: New BLE device
+[21:04:14][I][ble_adv:225]:   address: 37:CF:48:5F:52:CF
+[21:04:14][I][ble_adv:226]:   name:
+[21:04:14][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:14][I][ble_adv:231]:   Advertised service data:
+[21:04:14][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:14][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:14][I][ble_adv:224]: New BLE device
+[21:04:14][I][ble_adv:225]:   address: 47:DD:00:9A:81:BB
+[21:04:14][I][ble_adv:226]:   name:
+[21:04:14][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:14][I][ble_adv:231]:   Advertised service data:
+[21:04:14][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:14][I][ble_adv:237]:     - 00:4C: (length 7)
+[21:04:14][I][ble_adv:224]: New BLE device
+[21:04:14][I][ble_adv:225]:   address: 5A:AA:8B:34:41:60
+[21:04:14][I][ble_adv:226]:   name:
+[21:04:14][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:14][I][ble_adv:229]:     - FE:9F
+[21:04:14][I][ble_adv:231]:   Advertised service data:
+[21:04:14][I][ble_adv:233]:     - FE:9F: (length 20)
+[21:04:14][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:14][I][ble_adv:237]:     - 00:E0: (length 6)
+[21:04:15][I][ble_adv:224]: New BLE device
+[21:04:15][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:15][I][ble_adv:226]:   name:
+[21:04:15][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:15][I][ble_adv:231]:   Advertised service data:
+[21:04:15][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:15][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:16][I][ble_adv:224]: New BLE device
+[21:04:16][I][ble_adv:225]:   address: 5A:AA:8B:34:41:60
+[21:04:16][I][ble_adv:226]:   name:
+[21:04:16][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:16][I][ble_adv:229]:     - FE:9F
+[21:04:16][I][ble_adv:231]:   Advertised service data:
+[21:04:16][I][ble_adv:233]:     - FE:9F: (length 20)
+[21:04:16][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:16][I][ble_adv:237]:     - 00:E0: (length 6)
+[21:04:16][I][ble_adv:224]: New BLE device
+[21:04:16][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:16][I][ble_adv:226]:   name:
+[21:04:16][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:16][I][ble_adv:231]:   Advertised service data:
+[21:04:16][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:16][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:16][I][ble_adv:224]: New BLE device
+[21:04:16][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:16][I][ble_adv:226]:   name:
+[21:04:16][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:16][I][ble_adv:231]:   Advertised service data:
+[21:04:16][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:16][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:17][I][ble_adv:224]: New BLE device
+[21:04:17][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:17][I][ble_adv:226]:   name:
+[21:04:17][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:17][I][ble_adv:231]:   Advertised service data:
+[21:04:17][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:17][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:17][I][ble_adv:224]: New BLE device
+[21:04:17][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:17][I][ble_adv:226]:   name:
+[21:04:17][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:17][I][ble_adv:231]:   Advertised service data:
+[21:04:17][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:17][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:17][I][ble_adv:224]: New BLE device
+[21:04:18][I][ble_adv:225]:   address: 4C:24:98:B9:28:79
+[21:04:18][I][ble_adv:226]:   name: iBBQ
+[21:04:18][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:18][I][ble_adv:229]:     - FF:F0
+[21:04:18][I][ble_adv:231]:   Advertised service data:
+[21:04:18][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:18][I][ble_adv:237]:     - 00:00: (length 16)
+[21:04:18][I][ble_adv:224]: New BLE device
+[21:04:18][I][ble_adv:225]:   address: 47:DD:00:9A:81:BB
+[21:04:18][I][ble_adv:226]:   name:
+[21:04:18][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:18][I][ble_adv:231]:   Advertised service data:
+[21:04:18][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:18][I][ble_adv:237]:     - 00:4C: (length 7)
+[21:04:18][I][ble_adv:224]: New BLE device
+[21:04:18][I][ble_adv:225]:   address: 37:CF:48:5F:52:CF
+[21:04:18][I][ble_adv:226]:   name:
+[21:04:18][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:18][I][ble_adv:231]:   Advertised service data:
+[21:04:18][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:18][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:18][I][ble_adv:224]: New BLE device
+[21:04:19][I][ble_adv:225]:   address: 4C:24:98:B9:28:79
+[21:04:19][I][ble_adv:226]:   name: iBBQ
+[21:04:19][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:19][I][ble_adv:229]:     - FF:F0
+[21:04:19][I][ble_adv:231]:   Advertised service data:
+[21:04:19][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:19][I][ble_adv:237]:     - 00:00: (length 16)
+[21:04:19][I][ble_adv:224]: New BLE device
+[21:04:19][I][ble_adv:225]:   address: 4C:24:98:B9:28:79
+[21:04:19][I][ble_adv:226]:   name: iBBQ
+[21:04:19][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:19][I][ble_adv:229]:     - FF:F0
+[21:04:19][I][ble_adv:231]:   Advertised service data:
+[21:04:19][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:19][I][ble_adv:237]:     - 00:00: (length 16)
+[21:04:20][I][ble_adv:224]: New BLE device
+[21:04:20][I][ble_adv:225]:   address: 47:DD:00:9A:81:BB
+[21:04:20][I][ble_adv:226]:   name:
+[21:04:20][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:20][I][ble_adv:231]:   Advertised service data:
+[21:04:20][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:20][I][ble_adv:237]:     - 00:4C: (length 7)
+[21:04:21][I][ble_adv:224]: New BLE device
+[21:04:21][I][ble_adv:225]:   address: 67:86:D5:74:D0:A0
+[21:04:21][I][ble_adv:226]:   name:
+[21:04:21][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:21][I][ble_adv:231]:   Advertised service data:
+[21:04:21][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:21][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:22][I][ble_adv:224]: New BLE device
+[21:04:22][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:22][I][ble_adv:226]:   name:
+[21:04:22][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:22][I][ble_adv:231]:   Advertised service data:
+[21:04:22][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:22][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:22][I][ble_adv:224]: New BLE device
+[21:04:22][I][ble_adv:225]:   address: 54:B1:91:BD:E6:4D
+[21:04:22][I][ble_adv:226]:   name:
+[21:04:22][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:22][I][ble_adv:229]:     - FD:6F
+[21:04:22][I][ble_adv:231]:   Advertised service data:
+[21:04:22][I][ble_adv:233]:     - FD:6F: (length 20)
+[21:04:22][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:22][I][main:216]: Got notification:
+[21:04:22][I][main:217]:   RPI: 31.4E.B2.06.8A.9A.09.1A.81.C1.C4.3B.B2.37.A1.74 (16)
+[21:04:22][I][main:218]:   RSSI: -66
+[21:04:23][I][ble_adv:224]: New BLE device
+[21:04:23][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:23][I][ble_adv:226]:   name:
+[21:04:23][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:23][I][ble_adv:231]:   Advertised service data:
+[21:04:23][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:23][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:23][I][ble_adv:224]: New BLE device
+[21:04:23][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:23][I][ble_adv:226]:   name:
+[21:04:23][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:23][I][ble_adv:231]:   Advertised service data:
+[21:04:23][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:23][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:24][I][ble_adv:224]: New BLE device
+[21:04:24][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:24][I][ble_adv:226]:   name:
+[21:04:24][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:24][I][ble_adv:231]:   Advertised service data:
+[21:04:24][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:24][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:25][I][ble_adv:224]: New BLE device
+[21:04:25][I][ble_adv:225]:   address: 54:B1:91:BD:E6:4D
+[21:04:25][I][ble_adv:226]:   name:
+[21:04:25][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:25][I][ble_adv:229]:     - FD:6F
+[21:04:25][I][ble_adv:231]:   Advertised service data:
+[21:04:25][I][ble_adv:233]:     - FD:6F: (length 20)
+[21:04:25][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:25][I][main:216]: Got notification:
+[21:04:25][I][main:217]:   RPI: 31.4E.B2.06.8A.9A.09.1A.81.C1.C4.3B.B2.37.A1.74 (16)
+[21:04:25][I][main:218]:   RSSI: -71
+[21:04:27][I][ble_adv:224]: New BLE device
+[21:04:27][I][ble_adv:225]:   address: 4C:24:98:B9:28:79
+[21:04:27][I][ble_adv:226]:   name: iBBQ
+[21:04:27][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:27][I][ble_adv:229]:     - FF:F0
+[21:04:27][I][ble_adv:231]:   Advertised service data:
+[21:04:27][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:27][I][ble_adv:237]:     - 00:00: (length 16)
+[21:04:27][I][ble_adv:224]: New BLE device
+[21:04:27][I][ble_adv:225]:   address: 54:B1:91:BD:E6:4D
+[21:04:27][I][ble_adv:226]:   name:
+[21:04:27][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:27][I][ble_adv:229]:     - FD:6F
+[21:04:27][I][ble_adv:231]:   Advertised service data:
+[21:04:27][I][ble_adv:233]:     - FD:6F: (length 20)
+[21:04:27][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:27][I][main:216]: Got notification:
+[21:04:27][I][main:217]:   RPI: 31.4E.B2.06.8A.9A.09.1A.81.C1.C4.3B.B2.37.A1.74 (16)
+[21:04:27][I][main:218]:   RSSI: -65
+[21:04:27][I][ble_adv:224]: New BLE device
+[21:04:27][I][ble_adv:225]:   address: 4C:24:98:B9:28:79
+[21:04:27][I][ble_adv:226]:   name: iBBQ
+[21:04:27][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:27][I][ble_adv:229]:     - FF:F0
+[21:04:27][I][ble_adv:231]:   Advertised service data:
+[21:04:27][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:27][I][ble_adv:237]:     - 00:00: (length 16)
+[21:04:28][I][ble_adv:224]: New BLE device
+[21:04:28][I][ble_adv:225]:   address: 4C:24:98:B9:28:79
+[21:04:28][I][ble_adv:226]:   name: iBBQ
+[21:04:28][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:28][I][ble_adv:229]:     - FF:F0
+[21:04:28][I][ble_adv:231]:   Advertised service data:
+[21:04:28][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:28][I][ble_adv:237]:     - 00:00: (length 16)
+[21:04:28][I][ble_adv:224]: New BLE device
+[21:04:28][I][ble_adv:225]:   address: 37:CF:48:5F:52:CF
+[21:04:28][I][ble_adv:226]:   name:
+[21:04:28][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:28][I][ble_adv:231]:   Advertised service data:
+[21:04:28][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:28][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:28][I][ble_adv:224]: New BLE device
+[21:04:28][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:28][I][ble_adv:226]:   name:
+[21:04:28][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:28][I][ble_adv:231]:   Advertised service data:
+[21:04:28][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:28][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:28][I][ble_adv:224]: New BLE device
+[21:04:28][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:28][I][ble_adv:226]:   name:
+[21:04:28][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:28][I][ble_adv:231]:   Advertised service data:
+[21:04:28][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:28][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:29][I][ble_adv:224]: New BLE device
+[21:04:29][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:29][I][ble_adv:226]:   name:
+[21:04:29][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:29][I][ble_adv:231]:   Advertised service data:
+[21:04:29][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:29][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:29][I][ble_adv:224]: New BLE device
+[21:04:29][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:29][I][ble_adv:226]:   name:
+[21:04:29][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:29][I][ble_adv:231]:   Advertised service data:
+[21:04:29][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:29][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:30][I][ble_adv:224]: New BLE device
+[21:04:30][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:30][I][ble_adv:226]:   name:
+[21:04:30][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:30][I][ble_adv:231]:   Advertised service data:
+[21:04:30][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:30][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:30][I][ble_adv:224]: New BLE device
+[21:04:30][I][ble_adv:225]:   address: 54:B1:91:BD:E6:4D
+[21:04:30][I][ble_adv:226]:   name:
+[21:04:30][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:30][I][ble_adv:229]:     - FD:6F
+[21:04:30][I][ble_adv:231]:   Advertised service data:
+[21:04:30][I][ble_adv:233]:     - FD:6F: (length 20)
+[21:04:30][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:30][I][main:216]: Got notification:
+[21:04:30][I][main:217]:   RPI: 31.4E.B2.06.8A.9A.09.1A.81.C1.C4.3B.B2.37.A1.74 (16)
+[21:04:30][I][main:218]:   RSSI: -66
+[21:04:32][I][ble_adv:224]: New BLE device
+[21:04:32][I][ble_adv:225]:   address: 47:DD:00:9A:81:BB
+[21:04:32][I][ble_adv:226]:   name:
+[21:04:32][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:32][I][ble_adv:231]:   Advertised service data:
+[21:04:32][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:32][I][ble_adv:237]:     - 00:4C: (length 7)
+[21:04:33][I][ble_adv:224]: New BLE device
+[21:04:33][I][ble_adv:225]:   address: 5A:AA:8B:34:41:60
+[21:04:33][I][ble_adv:226]:   name:
+[21:04:33][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:33][I][ble_adv:229]:     - FE:9F
+[21:04:33][I][ble_adv:231]:   Advertised service data:
+[21:04:33][I][ble_adv:233]:     - FE:9F: (length 20)
+[21:04:33][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:33][I][ble_adv:237]:     - 00:E0: (length 6)
+[21:04:33][I][ble_adv:224]: New BLE device
+[21:04:33][I][ble_adv:225]:   address: 54:B1:91:BD:E6:4D
+[21:04:33][I][ble_adv:226]:   name:
+[21:04:33][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:33][I][ble_adv:229]:     - FD:6F
+[21:04:33][I][ble_adv:231]:   Advertised service data:
+[21:04:33][I][ble_adv:233]:     - FD:6F: (length 20)
+[21:04:33][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:33][I][main:216]: Got notification:
+[21:04:33][I][main:217]:   RPI: 31.4E.B2.06.8A.9A.09.1A.81.C1.C4.3B.B2.37.A1.74 (16)
+[21:04:33][I][main:218]:   RSSI: -67
+[21:04:33][I][ble_adv:224]: New BLE device
+[21:04:34][I][ble_adv:225]:   address: 37:CF:48:5F:52:CF
+[21:04:34][I][ble_adv:226]:   name:
+[21:04:34][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:34][I][ble_adv:231]:   Advertised service data:
+[21:04:34][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:34][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:34][I][ble_adv:224]: New BLE device
+[21:04:34][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:34][I][ble_adv:226]:   name:
+[21:04:34][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:34][I][ble_adv:231]:   Advertised service data:
+[21:04:34][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:34][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:34][I][ble_adv:224]: New BLE device
+[21:04:35][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:35][I][ble_adv:226]:   name:
+[21:04:35][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:35][I][ble_adv:231]:   Advertised service data:
+[21:04:35][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:35][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:35][I][ble_adv:224]: New BLE device
+[21:04:35][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:35][I][ble_adv:226]:   name:
+[21:04:35][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:35][I][ble_adv:231]:   Advertised service data:
+[21:04:35][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:35][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:35][I][ble_adv:224]: New BLE device
+[21:04:35][I][ble_adv:225]:   address: 5A:AA:8B:34:41:60
+[21:04:35][I][ble_adv:226]:   name:
+[21:04:35][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:35][I][ble_adv:229]:     - FE:9F
+[21:04:35][I][ble_adv:231]:   Advertised service data:
+[21:04:35][I][ble_adv:233]:     - FE:9F: (length 20)
+[21:04:35][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:35][I][ble_adv:237]:     - 00:E0: (length 6)
+[21:04:35][I][ble_adv:224]: New BLE device
+[21:04:35][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:35][I][ble_adv:226]:   name:
+[21:04:35][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:35][I][ble_adv:231]:   Advertised service data:
+[21:04:35][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:35][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:36][I][ble_adv:224]: New BLE device
+[21:04:36][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:36][I][ble_adv:226]:   name:
+[21:04:36][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:36][I][ble_adv:231]:   Advertised service data:
+[21:04:36][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:36][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:36][I][ble_adv:224]: New BLE device
+[21:04:36][I][ble_adv:225]:   address: 4C:24:98:B9:28:79
+[21:04:36][I][ble_adv:226]:   name: iBBQ
+[21:04:36][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:36][I][ble_adv:229]:     - FF:F0
+[21:04:36][I][ble_adv:231]:   Advertised service data:
+[21:04:36][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:36][I][ble_adv:237]:     - 00:00: (length 16)
+[21:04:38][I][ble_adv:224]: New BLE device
+[21:04:38][I][ble_adv:225]:   address: 5A:AA:8B:34:41:60
+[21:04:38][I][ble_adv:226]:   name:
+[21:04:38][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:38][I][ble_adv:229]:     - FE:9F
+[21:04:38][I][ble_adv:231]:   Advertised service data:
+[21:04:38][I][ble_adv:233]:     - FE:9F: (length 20)
+[21:04:38][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:38][I][ble_adv:237]:     - 00:E0: (length 6)
+[21:04:38][I][ble_adv:224]: New BLE device
+[21:04:38][I][ble_adv:225]:   address: 54:B1:91:BD:E6:4D
+[21:04:38][I][ble_adv:226]:   name:
+[21:04:38][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:38][I][ble_adv:229]:     - FD:6F
+[21:04:38][I][ble_adv:231]:   Advertised service data:
+[21:04:38][I][ble_adv:233]:     - FD:6F: (length 20)
+[21:04:38][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:38][I][main:216]: Got notification:
+[21:04:38][I][main:217]:   RPI: 31.4E.B2.06.8A.9A.09.1A.81.C1.C4.3B.B2.37.A1.74 (16)
+[21:04:38][I][main:218]:   RSSI: -73
+[21:04:39][I][ble_adv:224]: New BLE device
+[21:04:39][I][ble_adv:225]:   address: C5:F7:EE:BA:BC:86
+[21:04:39][I][ble_adv:226]:   name: N05LX
+[21:04:39][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:39][I][ble_adv:229]:     - FE:AF
+[21:04:39][I][ble_adv:231]:   Advertised service data:
+[21:04:39][I][ble_adv:233]:     - FE:AF: (length 17)
+[21:04:39][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:39][I][ble_adv:224]: New BLE device
+[21:04:39][I][ble_adv:225]:   address: 37:CF:48:5F:52:CF
+[21:04:39][I][ble_adv:226]:   name:
+[21:04:39][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:39][I][ble_adv:231]:   Advertised service data:
+[21:04:39][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:39][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:39][I][ble_adv:224]: New BLE device
+[21:04:39][I][ble_adv:225]:   address: 47:DD:00:9A:81:BB
+[21:04:39][I][ble_adv:226]:   name:
+[21:04:39][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:39][I][ble_adv:231]:   Advertised service data:
+[21:04:39][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:39][I][ble_adv:237]:     - 00:4C: (length 7)
+[21:04:40][I][ble_adv:224]: New BLE device
+[21:04:40][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:40][I][ble_adv:226]:   name:
+[21:04:40][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:40][I][ble_adv:231]:   Advertised service data:
+[21:04:40][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:40][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:40][I][ble_adv:224]: New BLE device
+[21:04:40][I][ble_adv:225]:   address: C5:F7:EE:BA:BC:86
+[21:04:40][I][ble_adv:226]:   name: N05LX
+[21:04:40][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:40][I][ble_adv:229]:     - FE:AF
+[21:04:40][I][ble_adv:231]:   Advertised service data:
+[21:04:40][I][ble_adv:233]:     - FE:AF: (length 17)
+[21:04:40][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:41][I][ble_adv:224]: New BLE device
+[21:04:41][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:41][I][ble_adv:226]:   name:
+[21:04:41][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:41][I][ble_adv:231]:   Advertised service data:
+[21:04:41][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:41][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:41][I][ble_adv:224]: New BLE device
+[21:04:41][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:41][I][ble_adv:226]:   name:
+[21:04:41][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:41][I][ble_adv:231]:   Advertised service data:
+[21:04:41][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:41][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:41][I][ble_adv:224]: New BLE device
+[21:04:41][I][ble_adv:225]:   address: 47:DD:00:9A:81:BB
+[21:04:41][I][ble_adv:226]:   name:
+[21:04:41][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:41][I][ble_adv:231]:   Advertised service data:
+[21:04:41][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:41][I][ble_adv:237]:     - 00:4C: (length 7)
+[21:04:41][I][ble_adv:224]: New BLE device
+[21:04:42][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:42][I][ble_adv:226]:   name:
+[21:04:42][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:42][I][ble_adv:231]:   Advertised service data:
+[21:04:42][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:42][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:44][I][ble_adv:224]: New BLE device
+[21:04:44][I][ble_adv:225]:   address: 54:B1:91:BD:E6:4D
+[21:04:44][I][ble_adv:226]:   name:
+[21:04:44][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:44][I][ble_adv:229]:     - FD:6F
+[21:04:44][I][ble_adv:231]:   Advertised service data:
+[21:04:44][I][ble_adv:233]:     - FD:6F: (length 20)
+[21:04:44][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:44][I][main:216]: Got notification:
+[21:04:44][I][main:217]:   RPI: 31.4E.B2.06.8A.9A.09.1A.81.C1.C4.3B.B2.37.A1.74 (16)
+[21:04:44][I][main:218]:   RSSI: -73
+[21:04:45][I][ble_adv:224]: New BLE device
+[21:04:45][I][ble_adv:225]:   address: 47:DD:00:9A:81:BB
+[21:04:45][I][ble_adv:226]:   name:
+[21:04:45][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:45][I][ble_adv:231]:   Advertised service data:
+[21:04:45][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:45][I][ble_adv:237]:     - 00:4C: (length 7)
+[21:04:45][I][ble_adv:224]: New BLE device
+[21:04:45][I][ble_adv:225]:   address: 37:CF:48:5F:52:CF
+[21:04:45][I][ble_adv:226]:   name:
+[21:04:45][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:45][I][ble_adv:231]:   Advertised service data:
+[21:04:45][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:45][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:45][I][ble_adv:224]: New BLE device
+[21:04:45][I][ble_adv:225]:   address: 37:CF:48:5F:52:CF
+[21:04:45][I][ble_adv:226]:   name:
+[21:04:45][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:45][I][ble_adv:231]:   Advertised service data:
+[21:04:45][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:45][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:46][I][ble_adv:224]: New BLE device
+[21:04:46][I][ble_adv:225]:   address: 4C:24:98:B9:28:79
+[21:04:46][I][ble_adv:226]:   name: iBBQ
+[21:04:46][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:46][I][ble_adv:229]:     - FF:F0
+[21:04:46][I][ble_adv:231]:   Advertised service data:
+[21:04:46][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:46][I][ble_adv:237]:     - 00:00: (length 16)
+[21:04:46][I][ble_adv:224]: New BLE device
+[21:04:46][I][ble_adv:225]:   address: 37:CF:48:5F:52:CF
+[21:04:46][I][ble_adv:226]:   name:
+[21:04:46][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:46][I][ble_adv:231]:   Advertised service data:
+[21:04:46][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:46][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:46][I][ble_adv:224]: New BLE device
+[21:04:46][I][ble_adv:225]:   address: 05:0F:03:44:64:82
+[21:04:46][I][ble_adv:226]:   name:
+[21:04:46][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:46][I][ble_adv:231]:   Advertised service data:
+[21:04:46][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:46][I][ble_adv:237]:     - 00:06: (length 27)
+[21:04:46][I][ble_adv:224]: New BLE device
+[21:04:46][I][ble_adv:225]:   address: 4C:24:98:B9:28:79
+[21:04:46][I][ble_adv:226]:   name: iBBQ
+[21:04:46][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:46][I][ble_adv:229]:     - FF:F0
+[21:04:46][I][ble_adv:231]:   Advertised service data:
+[21:04:46][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:46][I][ble_adv:237]:     - 00:00: (length 16)
+[21:04:47][I][ble_adv:224]: New BLE device
+[21:04:47][I][ble_adv:225]:   address: 47:DD:00:9A:81:BB
+[21:04:47][I][ble_adv:226]:   name:
+[21:04:47][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:47][I][ble_adv:231]:   Advertised service data:
+[21:04:47][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:47][I][ble_adv:237]:     - 00:4C: (length 7)
+[21:04:47][I][ble_adv:224]: New BLE device
+[21:04:47][I][ble_adv:225]:   address: 4C:24:98:B9:28:79
+[21:04:47][I][ble_adv:226]:   name: iBBQ
+[21:04:47][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:47][I][ble_adv:229]:     - FF:F0
+[21:04:47][I][ble_adv:231]:   Advertised service data:
+[21:04:47][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:47][I][ble_adv:237]:     - 00:00: (length 16)
+[21:04:47][I][ble_adv:224]: New BLE device
+[21:04:47][I][ble_adv:225]:   address: 4C:24:98:B9:28:79
+[21:04:47][I][ble_adv:226]:   name: iBBQ
+[21:04:47][I][ble_adv:227]:   Advertised service UUIDs:
+[21:04:47][I][ble_adv:229]:     - FF:F0
+[21:04:47][I][ble_adv:231]:   Advertised service data:
+[21:04:47][I][ble_adv:235]:   Advertised manufacturer data:
+[21:04:47][I][ble_adv:237]:     - 00:00: (length 16)
