@@ -7,54 +7,57 @@ wifi:
   ssid: "oakridge"
   password: "donkeykong"
   domain: .home
-  fast_connect: true
-  # use_address: 192.168.100.178
+  # fast_connect: true
+  use_address: 192.168.100.128
 
-captive_portal:
+# captive_portal:
 
 # Enable logging
 logger:
   level: info
 
+api:
+  password: !secret api_password
+
 ota:
   password: !secret ota_password
 
-mqtt:
-  broker: 192.168.100.5
-  topic_prefix: esphome/blesensor
-  birth_message:
-    topic: birth_status
-    payload: "online"
+# mqtt:
+#   broker: 192.168.100.5
+#   topic_prefix: esphome/blesensor
+#   birth_message:
+#     topic: birth_status
+#     payload: "online"
 
-  will_message:
-    topic: will_status
-    payload: "offline"
+#   will_message:
+#     topic: will_status
+#     payload: "offline"
 
 sensor:
   - platform: template
     name: "iBBQ Temperature Probe 1"
-    expire_after: 300s
+    # expire_after: 300s
     id: ble_sensor_1
     unit_of_measurement: "°C"
     accuracy_decimals: 1
 
   - platform: template
     name: "iBBQ Temperature Probe 2"
-    expire_after: 300s
+    # expire_after: 300s
     id: ble_sensor_2
     unit_of_measurement: "°C"
     accuracy_decimals: 1
 
   - platform: template
     name: "iBBQ Temperature Probe 3"
-    expire_after: 300s
+    # expire_after: 300s
     id: ble_sensor_3
     unit_of_measurement: "°C"
     accuracy_decimals: 1
 
   - platform: template
     name: "iBBQ Temperature Probe 4"
-    expire_after: 300s
+    # expire_after: 300s
     id: ble_sensor_4
     unit_of_measurement: "°C"
     accuracy_decimals: 1
